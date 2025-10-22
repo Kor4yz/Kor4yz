@@ -19,7 +19,7 @@ Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тест
   [Репозиторий](https://github.com/Kor4yz/proof-of-skill)
 
 ## 🧰 Стек
-**Python, SQL (PostgreSQL/ClickHouse), Pandas, NumPy, Matplotlib/Seaborn, Power BI, Tableau, DataLens, A/B тесты, Статистика, DWH/ETL (базово), Git, Jupyter**
+**Python, SQL (PostgreSQL/ClickHouse), Pandas, NumPy, Matplotlib/Seaborn, Power BI, Tableau, DataLens, A/B тесты, Статистика, DWH/ETL, Git, Jupyter**
 
 ## 📬 Контакты
 [GitHub](https://github.com/Kor4yz) • [Telegram](https://t.me/kor4yz) • Email: Kor4yz@yandex.ru • hh: *ссылка на резюме*
