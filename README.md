@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет, я Денис Морозов
+🎯 Data / Product / BI Analyst (HSE, 3 курс)  
+Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тесты • Статистика • ML
 
-<!--
-**Kor4yz/Kor4yz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Моя цель — превращать данные в бизнес-решения: от SQL-витрин и дашбордов до проверки гипотез и прогнозов.
 
-Here are some ideas to get you started:
+## 🚀 Лучшие проекты
+- **VK Video Analysis** — поведение пользователей, retention/CR, срезы по платформам.  
+  [Репозиторий](https://github.com/Kor4yz/Analysis-of-user-video-sessions-on-the-VK-Video-platform) • Дашборд: *ссылка* • Colab: *ссылка*
+- **E-commerce Analytics & Forecast** — MAU/DAU/LTV/ARPU + прогноз выручки бустингом.  
+  [Репозиторий](https://github.com/Kor4yz/ecommerce-analytics-forecast) • Дашборд: *ссылка*
+- **T-Bank EDA** — разведочный анализ банковских датасетов + презентация.  
+  [Репозиторий](https://github.com/Kor4yz/T-bank_analysis_hotels_and_air_travel)
+- **Car Price Prediction** — регрессия стоимости авто (MAE ~200k).  
+  [Репозиторий](https://github.com/Kor4yz/Predicting-the-cost-of-cars)
+- **Car Brand (CV)** — классификация марки автомобиля по фото (accuracy > 90%).  
+  [Репозиторий](https://github.com/Kor4yz/Determining_the_car_brand_from_a_photo)
+- **Proof-of-Skill** — сертификаты/курсы и подтверждения.  
+  [Репозиторий](https://github.com/Kor4yz/proof-of-skill)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Стек
+**Python, SQL (PostgreSQL/ClickHouse), Pandas, NumPy, Matplotlib/Seaborn, Power BI, Tableau, DataLens, A/B тесты, Статистика, DWH/ETL (базово), Git, Jupyter**
+
+## 📬 Контакты
+[GitHub](https://github.com/Kor4yz) • [Telegram](https://t.me/kor4yz) • Email: Kor4yz@yandex.ru • hh: *ссылка на резюме*
+
