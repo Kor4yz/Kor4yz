@@ -5,6 +5,8 @@ Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тест
 Моя цель — превращать данные в бизнес-решения: от SQL-витрин и дашбордов до проверки гипотез и прогнозов.
 
 ## 🚀 Лучшие проекты
+- **Proof-of-Skill** — сертификаты/курсы и подтверждения.  
+  [Репозиторий](https://github.com/Kor4yz/proof-of-skill)
 - **VK Video Analysis** — поведение пользователей, retention/CR, срезы по платформам.  
   [Репозиторий](https://github.com/Kor4yz/Analysis-of-user-video-sessions-on-the-VK-Video-platform) • Дашборд: *ссылка* • Colab: *ссылка*
 - **E-commerce Analytics & Forecast** — MAU/DAU/LTV/ARPU + прогноз выручки бустингом.  
@@ -15,8 +17,6 @@ Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тест
   [Репозиторий](https://github.com/Kor4yz/Predicting-the-cost-of-cars)
 - **Car Brand (CV)** — классификация марки автомобиля по фото (accuracy > 90%).  
   [Репозиторий](https://github.com/Kor4yz/Determining_the_car_brand_from_a_photo)
-- **Proof-of-Skill** — сертификаты/курсы и подтверждения.  
-  [Репозиторий](https://github.com/Kor4yz/proof-of-skill)
 
 ## 🧰 Стек
 **Python, SQL (PostgreSQL/ClickHouse), Pandas, NumPy, Matplotlib/Seaborn, Power BI, Tableau, DataLens, A/B тесты, Статистика, DWH/ETL, Git, Jupyter**
