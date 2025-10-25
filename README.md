@@ -8,9 +8,9 @@ Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тест
 - **VK Video Analysis** — поведение пользователей, retention/CR, срезы по платформам.  
   [Репозиторий](https://github.com/Kor4yz/Analysis-of-user-video-sessions-on-the-VK-Video-platform) • Дашборд: *ссылка* • Colab: *ссылка*
 - **E-commerce Analytics & Forecast** — MAU/DAU/LTV/ARPU + прогноз выручки бустингом.  
-  [Репозиторий](https://github.com/Kor4yz/ecommerce-analytics-forecast) • Дашборд: *ссылка*
+  [Репозиторий](https://github.com/Kor4yz/ecommerce-analytics-forecast) • Дашборд: [*ссылка*](https://datalens.ru/r19wac3nqtz0c?_no_controls=1&state=7a421f30208&_theme=dark)
 - **T-Bank EDA** — разведочный анализ банковских датасетов + презентация.  
-  [Репозиторий](https://github.com/Kor4yz/T-bank_analysis_hotels_and_air_travel)
+  [Репозиторий](https://github.com/Kor4yz/T-bank_analysis_hotels_and_air_travel) • Дашборд: [*ссылка*](https://datalens.ru/1b40fflhydq4m?_no_controls=1&tab=Ge&_theme=dark)
 - **Car Price Prediction** — регрессия стоимости авто (MAE ~200k).  
   [Репозиторий](https://github.com/Kor4yz/Predicting-the-cost-of-cars)
 - **Car Brand (CV)** — классификация марки автомобиля по фото (accuracy > 90%).  
