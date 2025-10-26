@@ -14,7 +14,7 @@ Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тест
 - **T-Bank EDA** — разведочный анализ банковских датасетов + презентация.  
   [Репозиторий](https://github.com/Kor4yz/T-bank_analysis_hotels_and_air_travel) • Дашборд: [*ссылка*](https://datalens.ru/1b40fflhydq4m?_no_controls=1&tab=Ge&_theme=dark)
 - **Car Price Prediction** — регрессия стоимости авто (MAE ~200k).  
-  [Репозиторий](https://github.com/Kor4yz/Predicting-the-cost-of-cars)
+  [Репозиторий](https://github.com/Kor4yz/Predicting-the-cost-of-cars.)
 - **Car Brand (CV)** — классификация марки автомобиля по фото (accuracy > 90%).  
   [Репозиторий](https://github.com/Kor4yz/Determining_the_car_brand_from_a_photo)
 
