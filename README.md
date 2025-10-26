@@ -8,7 +8,7 @@ Python • SQL • Power BI • Tableau • DataLens • Pandas • A/B тест
 - **Proof-of-Skill** — сертификаты/курсы и подтверждения.  
   [Репозиторий](https://github.com/Kor4yz/proof-of-skill)
 - **VK Video Analysis** — поведение пользователей, retention/CR, срезы по платформам.  
-  [Репозиторий](https://github.com/Kor4yz/Analysis-of-user-video-sessions-on-the-VK-Video-platform) • Дашборд: *ссылка* • Colab: [*ссылка*](https://colab.research.google.com/drive/1ZykbZZXAXpsL4L23zqEr1y9f_eD8gnN8?usp=sharing)
+  [Репозиторий](https://github.com/Kor4yz/Analysis-of-user-video-sessions-on-the-VK-Video-platform) • Colab: [*ссылка*](https://colab.research.google.com/drive/1ZykbZZXAXpsL4L23zqEr1y9f_eD8gnN8?usp=sharing)
 - **E-commerce Analytics & Forecast** — MAU/DAU/LTV/ARPU + прогноз выручки бустингом.  
   [Репозиторий](https://github.com/Kor4yz/ecommerce-analytics-forecast) • Дашборд: [*ссылка*](https://datalens.ru/r19wac3nqtz0c?_no_controls=1&state=7a421f30208&_theme=dark)
 - **T-Bank EDA** — разведочный анализ банковских датасетов + презентация.  
